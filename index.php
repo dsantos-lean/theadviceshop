@@ -11,7 +11,7 @@
 <?php include( "inc_header.php" );
 include( "inc_nav.php" ); ?>
 <section id="content">
-    <h2>Welcome to The Advice Shop </h2>
+    <h2>Welcome to The Advice Shop. </h2>
 
     <p><strong>You need advice. We provide it</strong>.</p>
     <p>These days, it's impossible to <em>really</em> succeed on your own with the complexity
